@@ -26,7 +26,7 @@ const msga = (message) => {
 /**DATABASE*/
 var presen = false
 var pren = 'composing'
-var namabot = 'BennyBOT'
+var namabot = 'BOT'
 
 module.exports = benny = async(benny, ben) => {
 	try {
